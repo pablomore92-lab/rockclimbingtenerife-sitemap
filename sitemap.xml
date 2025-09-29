@@ -1,307 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://www.rockclimbingtenerife.com/</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/inicio</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/about-me</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/sport-climbing</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/sport-climbing/first-contact</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-day</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-course-for-beginers</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-technique</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/sport-climbing/fear-management-for-climbers</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-safety-skills</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/guiding-on-a-sport-climbing-route</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/guiding-on-a-semi-bolted-climbing-route</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/my-first-100-meters</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/safe-climbing-progression-and-anchor-building-training-on-bolted-routes</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/contact</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/notice</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/notice/privacy-policy</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/notice/terms-conditions-of-booking</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/notice/legal-notice</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/notice/cookies</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/sobre-mi</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-deportiva</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-deportiva/toma-de-contacto</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-deportiva/d%C3%ADa-de-escalada</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-deportiva/curso-de-iniciaci%C3%B3n</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-deportiva/gestualidad-y-movimiento</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-deportiva/gesti%C3%B3n-del-miedo</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-deportiva/pr%C3%A1cticas-de-seguridad</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/guiaje-en-v%C3%ADa-equipada</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/guiaje-en-v%C3%ADa-semiequipada</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/mis-primeros-100-metros</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/formaci%C3%B3n-en-progresi%C3%B3n-segura-y-montaje-de-reuniones-en-vias-equipadas</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escalada-en-familia</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/la-escalada-en-tenerife-y-la-aegm</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/quien-soy-y-que-hacemos</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/arico</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/seguridad</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escalar-en-roca-volc%C3%A1nica</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/como-afecta-la-escalada-a-las-personas</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/consejos-para-escalar-en-roca-volc%C3%A1nica</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escalada-deportiva-en-tenerife</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escalada-de-varios-largos-en-anaga</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/el-reto-mis-100-primeros-metros</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escalada-con-ni%C3%B1os-en-tenerife</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escuela-de-escalada-en-tenerife</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/las-gu%C3%ADas-de-escalada-en-tenerife</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escalada-en-el-parque-de-la-vega</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/entradas/escuelas-de-escalada-en-tenerife</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/contacto</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/aviso</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/aviso/pol%C3%ADticas-de-privacidad</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/aviso/cookies</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/aviso/aviso-legal</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/aviso/terminos-y-condiciones</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/english/notice/payment</loc></url>
+<url><loc>https://www.rockclimbingtenerife.com/aviso/pagos</loc></url>
 
-
-<url>
-  <loc>https://www.rockclimbingtenerife.com/</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/inicio</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/about-me</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/sport-climbing</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/sport-climbing/first-contact</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-day</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-course-for-beginers</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-technique</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/sport-climbing/fear-management-for-climbers</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/sport-climbing/climbing-safety-skills</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/guiding-on-a-sport-climbing-route</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/guiding-on-a-semi-bolted-climbing-route</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/my-first-100-meters</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/multi-pitch-climbing/safe-climbing-progression-and-anchor-building-training-on-bolted-routes</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/contact</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/notice</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/notice/privacy-policy</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/notice/terms-conditions-of-booking</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/notice/legal-notice</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/notice/cookies</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/sobre-mi</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-deportiva</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-deportiva/toma-de-contacto</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-deportiva/d%C3%ADa-de-escalada</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-deportiva/curso-de-iniciaci%C3%B3n</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-deportiva/gestualidad-y-movimiento</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-deportiva/gesti%C3%B3n-del-miedo</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-deportiva/pr%C3%A1cticas-de-seguridad</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/guiaje-en-v%C3%ADa-equipada</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/guiaje-en-v%C3%ADa-semiequipada</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/mis-primeros-100-metros</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/escalada-de-varios-largos/formaci%C3%B3n-en-progresi%C3%B3n-segura-y-montaje-de-reuniones-en-vias-equipadas</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escalada-en-familia</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/la-escalada-en-tenerife-y-la-aegm</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/quien-soy-y-que-hacemos</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/arico</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/seguridad</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escalar-en-roca-volc%C3%A1nica</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/como-afecta-la-escalada-a-las-personas</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/consejos-para-escalar-en-roca-volc%C3%A1nica</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escalada-deportiva-en-tenerife</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escalada-de-varios-largos-en-anaga</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/el-reto-mis-100-primeros-metros</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escalada-con-ni%C3%B1os-en-tenerife</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escuela-de-escalada-en-tenerife</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/las-gu%C3%ADas-de-escalada-en-tenerife</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escalada-en-el-parque-de-la-vega</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/entradas/escuelas-de-escalada-en-tenerife</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/contacto</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/aviso</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/aviso/pol%C3%ADticas-de-privacidad</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/aviso/cookies</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/aviso/aviso-legal</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/aviso/terminos-y-condiciones</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/english/notice/payment</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.rockclimbingtenerife.com/aviso/pagos</loc>
-  <lastmod>2025-09-29T10:40:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
 
 
 </urlset>
